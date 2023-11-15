@@ -26,9 +26,6 @@
 <img width="388" alt="Screen Shot 2023-11-15 at 11 16 20 PM" src="https://github.com/afr741/movie-db/assets/23560627/693d5d16-f543-4a5a-bf3b-b6ebe2d29f83">
 <img width="327" alt="Screen Shot 2023-11-15 at 11 24 50 PM" src="https://github.com/afr741/movie-db/assets/23560627/7c941a3a-e703-42f6-8100-aa7d110e6d64">
 
-To get started with movie-db, follow the installation and usage instructions below.
-
-1. Clone the repository to your local machine:
 
 
 ## Getting Started 🚀
